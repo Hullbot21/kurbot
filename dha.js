@@ -837,7 +837,7 @@ dha.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 
         case 'menu':
         case 'help':
-        menu =`Hai Kak.....\n*${pushname}*\n\`\`\`Saya Sherlynn-Botz,SENANG BISA BERTEMU DENGANMU HARI INI\`\`\`
+        menu =`Hai Kak.....\n*${pushname}*\n\`\`\`Saya Hull-Botz,SENANG BISA BERTEMU DENGANMU HARI INI\`\`\`
         
 𝗜𝗡𝗙𝗢 𝗣𝗘𝗡𝗚𝗚𝗨𝗡𝗔 𝗕𝗢𝗧
 ❏ NAMA : *${pushname}*
@@ -848,7 +848,7 @@ dha.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
 ❏ NAMA : *Hull-Botz*
 ❏ API : @6289667090665
-❏ OWNER : *©KurrXd*
+❏ OWNER : *©ARIF*
 ❏ API : *@6289667090665*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
